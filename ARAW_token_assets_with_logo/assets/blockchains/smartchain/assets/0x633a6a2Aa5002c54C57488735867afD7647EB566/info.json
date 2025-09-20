@@ -1,0 +1,11 @@
+{
+    "name": "ARAW",
+    "symbol": "ARAW",
+    "type": "BEP20",
+    "decimals": 12,
+    "description": "ARAW Utility Token",
+    "website": "https://yourwebsite.com",
+    "explorer": "https://bscscan.com/token/0x633a6a2Aa5002c54C57488735867afD7647EB566",
+    "status": "active",
+    "id": "0x633a6a2Aa5002c54C57488735867afD7647EB566"
+}
